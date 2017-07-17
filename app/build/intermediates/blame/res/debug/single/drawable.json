@@ -1,0 +1,530 @@
+[
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\taorecorder_ovalbg_stroke_pause.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\HomeSport\\YunWangVideoSDK\\unspecified\\res\\drawable\\taorecorder_ovalbg_stroke_pause.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_back_press.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\HomeSport\\imagepicker\\unspecified\\res\\drawable\\selector_back_press.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\record_text.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\record_text.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_tab4.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\home_tab4.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radiobutton.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\radiobutton.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aliwx_sv_alert_dialog_item_bg.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\HomeSport\\YunWangVideoSDK\\unspecified\\res\\drawable\\aliwx_sv_alert_dialog_item_bg.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_actionbar_back.png",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\btn_actionbar_back.png"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_val.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\log_out_dialog_down.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\log_out_dialog_down.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\heart_love.9.png",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\heart_love.9.png"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_tab3.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\home_tab3.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_btn.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\switch_btn.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aliwx_sv_common_dialog_white_bg.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\HomeSport\\YunWangVideoSDK\\unspecified\\res\\drawable\\aliwx_sv_common_dialog_white_bg.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_tab2.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\home_tab2.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\attention_not.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\attention_not.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aliwx_sv_strecorder_record_ovalbg.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\HomeSport\\YunWangVideoSDK\\unspecified\\res\\drawable\\aliwx_sv_strecorder_record_ovalbg.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_text.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\login_text.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border_radius.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\border_radius.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dot_normal.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\dot_normal.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photo_choose_bg.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\photo_choose_bg.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jc_play_normal.png",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\jc_play_normal.png"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\record_dialog_up.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\record_dialog_up.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\active_lable.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\active_lable.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selection_divider.9.png",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\selection_divider.9.png"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clear_dialog.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\clear_dialog.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aliwx_sv_recorder_ovalbg_stroke.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\HomeSport\\YunWangVideoSDK\\unspecified\\res\\drawable\\aliwx_sv_recorder_ovalbg_stroke.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\demo_06.jpg",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\demo_06.jpg"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\uvv_star_play_progress_seek.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.linsea\\universalvideoview\\1.1.0\\res\\drawable\\uvv_star_play_progress_seek.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aliwx_sv_strecorder_timeline_clip_selector.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\HomeSport\\YunWangVideoSDK\\unspecified\\res\\drawable\\aliwx_sv_strecorder_timeline_clip_selector.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_footer_loading.png",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.github.CymChad\\BaseRecyclerViewAdapterHelper\\v2.0.7\\res\\drawable\\sample_footer_loading.png"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\taorecorder_timeline_clip_selector.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\HomeSport\\YunWangVideoSDK\\unspecified\\res\\drawable\\taorecorder_timeline_clip_selector.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\uvv_progress_rotate.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.linsea\\universalvideoview\\1.1.0\\res\\drawable\\uvv_progress_rotate.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_item_checked.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\HomeSport\\imagepicker\\unspecified\\res\\drawable\\selector_item_checked.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_pickerview_btn.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\HomeSport\\picker\\unspecified\\res\\drawable\\selector_pickerview_btn.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\taorecorder_back_selector.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\HomeSport\\YunWangVideoSDK\\unspecified\\res\\drawable\\taorecorder_back_selector.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aliwx_sv_common_blue_btn_bg.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\HomeSport\\YunWangVideoSDK\\unspecified\\res\\drawable\\aliwx_sv_common_blue_btn_bg.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\demo_10.jpg",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\demo_10.jpg"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\taorecorder_rectbg_time.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\HomeSport\\YunWangVideoSDK\\unspecified\\res\\drawable\\taorecorder_rectbg_time.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\type_item_checked.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\type_item_checked.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_footer_loading_progress.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.github.CymChad\\BaseRecyclerViewAdapterHelper\\v2.0.7\\res\\drawable\\sample_footer_loading_progress.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aliwx_sv_recorder_timeline_clip_selector.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\HomeSport\\YunWangVideoSDK\\unspecified\\res\\drawable\\aliwx_sv_recorder_timeline_clip_selector.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aliwx_sv_record_time_border.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\HomeSport\\YunWangVideoSDK\\unspecified\\res\\drawable\\aliwx_sv_record_time_border.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\greenyuan.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\HomeSport\\YunWangVideoSDK\\unspecified\\res\\drawable\\greenyuan.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aliwx_sv_blue_button.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\HomeSport\\YunWangVideoSDK\\unspecified\\res\\drawable\\aliwx_sv_blue_button.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\green_point.png",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\green_point.png"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\taorecorder_progressbar_color.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\HomeSport\\YunWangVideoSDK\\unspecified\\res\\drawable\\taorecorder_progressbar_color.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chebox_select.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\chebox_select.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\taorecorder_ovalbg_stroke.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\HomeSport\\YunWangVideoSDK\\unspecified\\res\\drawable\\taorecorder_ovalbg_stroke.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_grid_camera_bg.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\HomeSport\\imagepicker\\unspecified\\res\\drawable\\selector_grid_camera_bg.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\record_dialog_down.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\record_dialog_down.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\taorecorde_oktext_selector.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\HomeSport\\YunWangVideoSDK\\unspecified\\res\\drawable\\taorecorde_oktext_selector.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\taorecorder_uik_shape_waitview.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\HomeSport\\YunWangVideoSDK\\unspecified\\res\\drawable\\taorecorder_uik_shape_waitview.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user_lable.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\user_lable.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_image_add.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\selector_image_add.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_default_color.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.lzy.widget\\ninegridview\\0.2.1\\res\\drawable\\ic_default_color.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_press_state.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\item_press_state.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\equipment_text_back.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\equipment_text_back.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aliwx_sv_recorder_record_ovalbg.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\HomeSport\\YunWangVideoSDK\\unspecified\\res\\drawable\\aliwx_sv_recorder_record_ovalbg.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\city_bubble.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\city_bubble.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\type_item_normal.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\type_item_normal.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\taorecorder_record_ovalbg_pause.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\HomeSport\\YunWangVideoSDK\\unspecified\\res\\drawable\\taorecorder_record_ovalbg_pause.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_search.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\background_search.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\demo_09.jpg",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\demo_09.jpg"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_bg.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\city_bubble_oval.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\city_bubble_oval.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\apply_oval.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\apply_oval.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\call_phone_dialog.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\call_phone_dialog.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aliwx_sv_recorder_ovalbg_stroke_pause.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\HomeSport\\YunWangVideoSDK\\unspecified\\res\\drawable\\aliwx_sv_recorder_ovalbg_stroke_pause.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_tab1.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\home_tab1.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aliwx_sv_st_button.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\HomeSport\\YunWangVideoSDK\\unspecified\\res\\drawable\\aliwx_sv_st_button.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_top_ok.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\HomeSport\\imagepicker\\unspecified\\res\\drawable\\selector_top_ok.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\attention_yes.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\attention_yes.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\type_dialog.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\type_dialog.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_city.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\background_city.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\taorecorder_record_ovalbg.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\HomeSport\\YunWangVideoSDK\\unspecified\\res\\drawable\\taorecorder_record_ovalbg.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_text_button.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\share_text_button.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border_blue.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\border_blue.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dot_selected.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\dot_selected.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\demo_05.jpg",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\demo_05.jpg"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\taorecorder_backdelete_selector.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\HomeSport\\YunWangVideoSDK\\unspecified\\res\\drawable\\taorecorder_backdelete_selector.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border_green.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\border_green.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\color_cursor.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\color_cursor.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\log_out_dialog_up.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\log_out_dialog_up.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_succeed_dialog.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\share_succeed_dialog.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aliwx_sv_common_grey_btn_bg.xml",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\HomeSport\\YunWangVideoSDK\\unspecified\\res\\drawable\\aliwx_sv_common_grey_btn_bg.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border_orange.xml",
+        "source": "G:\\HomeSport\\app\\src\\main\\res\\drawable\\border_orange.xml"
+    }
+]

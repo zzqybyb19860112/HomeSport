@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="G:\HomeSport\Addresslibrary\src\main\assets"><file name="area.db" path="G:\HomeSport\Addresslibrary\src\main\assets\area.db"/></source><source path="G:\HomeSport\Addresslibrary\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="G:\HomeSport\Addresslibrary\src\debug\assets"/></dataSet></merger>

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\checkbox_normal.png",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\HomeSport\\imagepicker\\unspecified\\res\\mipmap-xxhdpi-v4\\checkbox_normal.png"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_back.png",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\HomeSport\\imagepicker\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_back.png"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_del.png",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\HomeSport\\imagepicker\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_del.png"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\text_indicator.png",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\HomeSport\\imagepicker\\unspecified\\res\\mipmap-xxhdpi-v4\\text_indicator.png"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\grid_camera.png",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\HomeSport\\imagepicker\\unspecified\\res\\mipmap-xxhdpi-v4\\grid_camera.png"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\default_image.png",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\HomeSport\\imagepicker\\unspecified\\res\\mipmap-xxhdpi-v4\\default_image.png"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\checkbox_checked.png",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\HomeSport\\imagepicker\\unspecified\\res\\mipmap-xxhdpi-v4\\checkbox_checked.png"
+    },
+    {
+        "merged": "G:\\HomeSport\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\list_selected.png",
+        "source": "G:\\HomeSport\\app\\build\\intermediates\\exploded-aar\\HomeSport\\imagepicker\\unspecified\\res\\mipmap-xxhdpi-v4\\list_selected.png"
+    }
+]

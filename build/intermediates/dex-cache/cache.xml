@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzqybyb19860112\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_5f078988de50d5508971b7a468a110d6f0d3e0e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_463012c3f0fe026b2fba52a03a224a8da17fdcda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_b71ed6420f7f83e2bcf2ea489449d18f0f8747cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\build\intermediates\exploded-aar\com.linsea\universalvideoview\1.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fdbc7356cbd67746b114447b249e959b61024e30">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.linsea-universalvideoview-1.1.0_e7c4c78163089a1e7f7f3d5423826ddeb8787849\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\libs\AMap_Search_V3.6.1_20161122.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3ec45e7996351e486830cf73a5a7ed88a2144c7f">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\2\AMap_Search_V3.6.1_20161122_932f64f70a1c55259a166cc2df9d12ab2665c57d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\build\intermediates\exploded-aar\HomeSport\YunWangVideoSDK\unspecified\jars\libs\tb_video_recorder_sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6ac7656b1ba5a432efb4e66a38856312873a8a50">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\8\tb_video_recorder_sdk_d81433b25e5353409d02611f4aabad6c80f3a614\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\build\intermediates\exploded-aar\com.bigkoo\convenientbanner\2.0.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b99798f653c15a17af6779bb9f01a66f2ee6e6ef">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.bigkoo-convenientbanner-2.0.5_fe9b115b25f59c94ac0ff46c202270748e158149\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzqybyb19860112\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_3594fb5b46d73151a535bcedf923fb6bcf0ee0a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\build\intermediates\exploded-aar\com.lzy.widget\ninegridview\0.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="19556fcd27f540abd2e6e8179107fcbae4d983fa">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.lzy.widget-ninegridview-0.2.1_89ad466b7ec9a73d62af8577c403f1d27f911b73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\libs\commons-lang3-3.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6c6c702c89bfff3cd9e80b04d668c5e190d588c6">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-lang3-3.5_9cb669c67f746749537b83e1219d941bd2acbe17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_fa658d5c42e806989bd53b8e47e1b0020b9df527\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzqybyb19860112\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_82ccceadf4e5ae7d4faf0bec7f084f8ec17ccdf1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_506af0f8c237365db15d3743bcaceb9f666263ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzqybyb19860112\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.4.1\381fc1096ba65040d8e80ea43b2e1d9bad02345e\logging-interceptor-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.4.1_a249e65833dda7a9590fce5ed2213f11012be2ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_386ba36a7a4e18510ca55fd0a4d4ec9e117e2b76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzqybyb19860112\.gradle\caches\modules-2\files-2.1\com.github.Raizlabs.DBFlow\dbflow-core\3.0.0-beta6\3d1671d848a10db82161501ea57beeee60b6efac\dbflow-core-3.0.0-beta6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3d1671d848a10db82161501ea57beeee60b6efac">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\dbflow-core-3.0.0-beta6_5a43afed9fcc5619689dae36b7c4c11e69222778\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_58d146dfb28e075498ff3b6f4a57a7be383ea91e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_72ea7c3f37d0209c6605cd536c6f78c2db87dd17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\libs\wup-1.0.0-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="934e220d321b27272ff107393ca45b56b5362fe4">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\2\wup-1.0.0-SNAPSHOT_11b9ce0d82cc7598b98c6812ea86bb4d057fd670\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_a882c37b3c34bdbc9701d16ae851806fa987af90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f0aa1edd855cf34c68816d86facef790dba32b2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_521363f4a79f49d107783b80b4339e581457746c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_d38d5cc8898536f20b29778c36df985fb716989e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.0.0_fc7ba951fd14fc4176f1903e9e75198dae4017cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_2ebf24f139001aa83dea1c0916b31bc87bdd46bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzqybyb19860112\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_bc46bcc6ca695604401928846d15236fe799655f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_31ab5a04085a952401fca9baca43022dc26243cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\build\intermediates\exploded-aar\com.github.Raizlabs.DBFlow\dbflow\3.0.0-beta6\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9ef8897d8cbf06102884c84c50ee729f5760e3fa">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.Raizlabs.DBFlow-dbflow-3.0.0-beta6_b989e45ed52196688da570e4552859172c672d57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\libs\AMap2DMap_2.9.3_AMapLocation_3.2.0_20161205.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="38537229ca8d337ff285c8436b04e616292cd4aa">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\2\AMap2DMap_2.9.3_AMapLocation_3.2.0_20161205_2b9c91663c4eeda91253355681cad088650beb5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_b3d4406f881d423090e67436205778c0e2b934be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\libs\download_1.1.4.1_6006.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ae90c951846b3f2d5a8847d1afb8b03fe9030e95">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\2\download_1.1.4.1_6006_bddace338afbcc27a040c18fbc72eaed64fdbc4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SDK\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_641b6e9427d006db85730e9b32de6e641d2eaae1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\libs\org.apache.http.legacy.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5320fd78dd7f154e586970d4f02befc9b58432aa">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\2\org.apache.http.legacy_a4dfcdf6570e30c95816cf5d9ea8668ad6383720\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\build\intermediates\exploded-aar\com.github.CymChad\BaseRecyclerViewAdapterHelper\v2.0.7\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2011e86a85d0f8a4a350d5ecd977c2fdaea072ad">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.CymChad-BaseRecyclerViewAdapterHelper-v2.0.7_d4c04b773062aa5bd64993cd5dc3851e0e0964ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_d1fe4c883bcac56cdab9398e6981d5854380f594\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzqybyb19860112\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_61097ed0c29b18dcf0ed859ff4948f6423bfa39c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_32da3b9979c2d754f85e1332efb4d51279c1a1ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_bc55864e28532b63a53f5c818f178358e95bd3d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\libs\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\2\picasso-2.5.2_7aad326f798c712b4da8340fbffe00ae1fbf35ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_2f0744fdf99506cc2b3cdb934a1a852499b38ca5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\build\intermediates\exploded-aar\com.w4lle.library\NineLayout\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="77a3708405f2f35445d7533217d93b8b10bec62f">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.w4lle.library-NineLayout-1.0.0_3080af8a24ca92452400bbc3703ab3bf6d9c6ff4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_6abcd41ca24d6f477e938b72def9f5c4fc9de2c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\build\intermediates\exploded-aar\HomeSport\YunWangVideoSDK\unspecified\jars\libs\tb_video_recorder.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f88b017406389308455e599936576f0305df41e7">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\8\tb_video_recorder_cd305340ad7b3376e0f7789077cf28ddf99d9bd5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\libs\upload_1.1.4.1_6016.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="34ebc28a2f1291997a6330e7606af80ccd7c3093">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\2\upload_1.1.4.1_6016_5a1bd54764349ecd7d436b841f91d261b376adda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d8d5aea0f62757e20bf68f1229d5c9c52f61b3f0">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_25da9bb233321fbd502d0c05993e259d9689ca6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\build\intermediates\exploded-aar\com.makeramen\roundedimageview\2.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="814fc0c3ec69a944add398217d90077301501a74">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.makeramen-roundedimageview-2.2.1_fd5fa4a61536e22201015adee527adb6bbf8e39d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_5bf372a6f9560c4eed627e83bfbc7ac10f35f5ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\libs\httpmime-4.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpmime-4.1.3_9748018a1ffef1e856d2f7bc6c4a82888c34e1e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_367ac45609d848495f54dcbec1dd9d8bf7fe9745\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\build\intermediates\exploded-aar\com.github.chihane\AndroidUtils\1.0.10\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1afd2348108b98926940c1959d811ab94895d812">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.chihane-AndroidUtils-1.0.10_087621b2e1cda05913bdca1e949e77d7d14fed97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzqybyb19860112\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_4f2b73c711e7a36b707b81f58b8657289259c242\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzqybyb19860112\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.6\2586312cd2b8a511e4c6236736f5a039fc0f2273\rxjava-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.1.6_6b23a7105dcfb896f00555b075c63b9b9ac900c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5cbed1e5ef35c06728e2c2b9e736fc4e6a3d573b">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_bd11252b1de4be766709a21c9a57aa9368947bbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzqybyb19860112\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_ec85d54a26052d23dc1771f78674adf6264b5495\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\build\intermediates\exploded-aar\com.github.chrisbanes.photoview\library\1.2.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="98b5309c8d368a7c83ca5f90e0c905044c195edd">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.chrisbanes.photoview-library-1.2.4_3e5f923c2d5b8e669af5c6c24b208e93866d5466\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzqybyb19860112\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.1.0\693eddc23e87ab13f9cf5001707ce8e7e1d1ff01\adapter-rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\adapter-rxjava-2.1.0_4b53538ba03252b9b7f43311d1e58d460fdd0132\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\HomeSport\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="927e8ef5711b115b65b2f35495d77352be2b3c09">
+        <dex dex="G:\HomeSport\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.reactivex-rxandroid-1.2.0_9855f49a867479466ff1c0d3289156459924edcd\classes.dex" />
+    </item>
+
+</items>

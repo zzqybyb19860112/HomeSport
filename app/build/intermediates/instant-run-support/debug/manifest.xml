@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tiyujia.homesport"
+    android:versionCode="2"
+    android:versionName="2.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="24" />
+
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <!-- 地图功能相关权限 -->
+    <!-- 用于进行网络定位 -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <!-- 用于访问GPS定位 -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <!-- 获取运营商信息，用于支持提供运营商信息相关的接口 -->
+    <!-- 用于访问wifi网络信息，wifi信息会用于进行网络定位 -->
+    <!-- 这个权限用于获取wifi的获取权限，wifi信息会用来进行网络定位 -->
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <!-- 用于访问网络，网络定位需要上网 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- 用于读取手机当前的状态 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <!-- 写入扩展存储，向扩展卡写入数据，用于写入缓存定位数据 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <!-- 地图功能相关权限 -->
+    <!-- 相机功能相关权限 -->
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+    <uses-feature android:name="android.hardware.camera.flash" />
+
+    <uses-permission android:name="android.permission.RECORD_VIDEO" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+
+    <application
+        name="com.tiyujia.homesport.App"
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:anyDensity="true"
+        android:icon="@mipmap/img_logo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        >
+        <!-- 地图功能配置信息 -->
+        <meta-data
+            android:name="com.amap.api.v2.apikey"
+            android:value="c41464a8d4e9656d8c263b332f14aa35" />
+        <!-- 杨帆：c41464a8d4e9656d8c263b332f14aa35 -->
+        <!-- 周正权：41b06df45821e2e8780540298badbd71 -->
+        <service android:name="com.amap.api.location.APSService" />
+        <!-- 地图功能配置信息 -->
+        <activity
+            android:name="com.tiyujia.homesport.BootLoaderActivity"
+            android:theme="@style/AppTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.tiyujia.homesport.HomeActivity" />
+        <activity android:name="com.tiyujia.homesport.common.personal.activity.PersonalSystemSetting" />
+        <activity android:name="com.tiyujia.homesport.common.personal.activity.PersonalSetInfo" />
+        <activity android:name="com.tiyujia.homesport.common.personal.activity.PersonalFeedback" />
+        <activity android:name="com.tiyujia.homesport.common.personal.activity.PersonalActive" />
+        <activity android:name="com.tiyujia.homesport.common.personal.activity.PersonalDynamic" />
+        <activity android:name="com.tiyujia.homesport.common.personal.activity.PersonalEquipmentShow" />
+        <activity android:name="com.tiyujia.homesport.common.personal.activity.PersonalAttention" />
+        <activity android:name="com.tiyujia.homesport.common.personal.activity.PersonalFans" />
+        <activity android:name="com.tiyujia.homesport.common.personal.activity.PersonalAbout" />
+        <activity android:name="com.tiyujia.homesport.common.personal.activity.PersonalPanyanGold" />
+        <activity android:name="com.tiyujia.homesport.common.personal.activity.PersonalPanyanGoldInfo" />
+        <activity android:name="com.tiyujia.homesport.common.personal.activity.PersonalPanyanGoldRecord" />
+        <activity android:name="com.tiyujia.homesport.common.personal.activity.ProtocolAcitvity" />
+        <activity android:name="com.tiyujia.homesport.common.personal.activity.PersonalMsg" />
+        <activity android:name="com.tiyujia.homesport.common.personal.activity.PersonalLogin" />
+        <activity android:name="com.tiyujia.homesport.common.personal.activity.PersonalRegister" />
+        <activity android:name="com.tiyujia.homesport.common.personal.activity.PersonalForgetRegister" />
+        <activity android:name="com.tiyujia.homesport.common.community.activity.CommunityAddAttention" />
+        <activity android:name="com.tiyujia.homesport.common.community.activity.CommunityDynamicPublish" />
+        <activity android:name="com.tiyujia.homesport.common.community.activity.YWRecordVideoActivity" />
+        <activity android:name="com.tiyujia.homesport.common.community.activity.WidthMatchVideo" />
+        <activity android:name="com.tiyujia.homesport.common.community.activity.CityAddressSelect" />
+        <activity android:name="com.tiyujia.homesport.common.homepage.activity.HomePageVenueSurveyActivity" />
+        <activity android:name="com.tiyujia.homesport.common.homepage.activity.HomePageDateActivity" />
+        <activity android:name="com.tiyujia.homesport.common.homepage.activity.HomePageEquipmentActivity" />
+        <activity android:name="com.tiyujia.homesport.common.homepage.activity.HomePageCourseActivity" />
+        <activity
+            android:name="com.tiyujia.homesport.common.homepage.activity.HomePageSearchResultActivity"
+            android:windowSoftInputMode="adjustResize" />
+        <activity android:name="com.tiyujia.homesport.common.homepage.activity.HomePageActivePublishActivity" />
+        <activity android:name="com.tiyujia.homesport.common.homepage.activity.HomePageEquipmentShowActivity" />
+        <activity
+            android:name="com.tiyujia.homesport.common.homepage.activity.HomePageArticleActivity"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name="com.tiyujia.homesport.common.homepage.activity.HomePageEquipmentInfo"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name="com.tiyujia.homesport.common.homepage.activity.HomePageDateInfo"
+            android:windowSoftInputMode="adjustResize" />
+        <activity android:name="com.tiyujia.homesport.common.homepage.activity.CityMapActivity" />
+        <activity android:name="com.tiyujia.homesport.common.record.activity.RecordTopActivity" />
+        <activity android:name="com.tiyujia.homesport.common.record.activity.RecordTrackActivity" />
+        <activity android:name="com.tiyujia.homesport.common.record.activity.CityMapHistoryActivity" />
+        <activity android:name="com.lzy.imagepicker.ui.ImagePreviewDelActivity" />
+        <activity android:name="com.tiyujia.homesport.common.homepage.activity.HomePageSetCityActivity" />
+        <activity android:name="com.tiyujia.homesport.common.homepage.activity.HomePageWholeSearchActivity" />
+        <activity android:name="com.tiyujia.homesport.common.personal.activity.PersonalOtherHome" />
+        <!--
+ ATTENTION: This was auto-generated to add Google Play services to your project for
+     App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
+        -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity android:name="com.tiyujia.homesport.common.homepage.activity.MorePeopleGoneActivity" />
+        <activity
+            android:name="com.tiyujia.homesport.common.community.activity.CommunityDynamicDetailActivity"
+            android:windowSoftInputMode="adjustResize" />
+        <activity android:name="com.tiyujia.homesport.common.community.activity.CommunityMoreLoveActivity" />
+        <activity
+            android:name="com.lzy.ninegrid.preview.ImagePreviewActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity android:name="com.lzy.imagepicker.ui.ImageBaseActivity" />
+        <activity
+            android:name="com.lzy.imagepicker.ui.ImageGridActivity"
+            android:configChanges="orientation|screenSize"
+            android:theme="@style/ImagePickerTheme" />
+        <activity
+            android:name="com.lzy.imagepicker.ui.ImageCropActivity"
+            android:configChanges="orientation|screenSize"
+            android:hardwareAccelerated="false"
+            android:theme="@style/ImagePickerTheme" />
+        <activity
+            android:name="com.lzy.imagepicker.ui.ImagePreviewActivity"
+            android:configChanges="orientation|screenSize"
+            android:theme="@style/ImagePickerThemeFullScreen" />
+        <activity
+            android:name="com.taobao.TaoRecordVideoActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.taobao.TaoPlayRecordVideoActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar"
+            android:windowSoftInputMode="stateAlwaysHidden|adjustResize" >
+        </activity>
+        <activity
+            android:name="com.taobao.URLDispatchActivity"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.taobao.TaoVideoFilterActivity"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.im.IMRecordVideoActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="svideo.m.taobao.com"
+                    android:path="/av/imrecorder.html"
+                    android:scheme="http" />
+                <data
+                    android:host="svideo.m.taobao.com"
+                    android:path="/av/imrecorder.html"
+                    android:scheme="https" />
+                <data
+                    android:host="svideo.m.taobao.com"
+                    android:path="/av/imstrecorder.html"
+                    android:scheme="http" />
+                <data
+                    android:host="svideo.m.taobao.com"
+                    android:path="/av/imstrecorder.html"
+                    android:scheme="https" />
+                <data android:path="/av/imrecorder.html" />
+                <data android:path="/av/imstrecorder.html" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.im.IMPlayRecordVideoActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar"
+            android:windowSoftInputMode="stateAlwaysHidden|adjustResize" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="svideo.m.taobao.com"
+                    android:path="/av/imstpreview.html"
+                    android:scheme="http" />
+                <data
+                    android:host="svideo.m.taobao.com"
+                    android:path="/av/imstpreview.html"
+                    android:scheme="https" />
+                <data android:path="/av/imstpreview.html" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.ff.imagezoomdrag.ImageDetailActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+    </application>
+
+</manifest>

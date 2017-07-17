@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "G:\\HomeSport\\Addresslibrary\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "G:\\HomeSport\\Addresslibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "H:\\HomeSport\\Addresslibrary\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_dialog_exit.xml",
+        "source": "H:\\HomeSport\\Addresslibrary\\src\\main\\res\\anim\\bottom_dialog_exit.xml"
+    },
+    {
+        "merged": "H:\\HomeSport\\Addresslibrary\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "H:\\HomeSport\\Addresslibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\Addresslibrary\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "G:\\HomeSport\\Addresslibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\Addresslibrary\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "G:\\HomeSport\\Addresslibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "H:\\HomeSport\\Addresslibrary\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_dialog_enter.xml",
+        "source": "H:\\HomeSport\\Addresslibrary\\src\\main\\res\\anim\\bottom_dialog_enter.xml"
+    },
+    {
+        "merged": "H:\\HomeSport\\Addresslibrary\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "H:\\HomeSport\\Addresslibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "H:\\HomeSport\\Addresslibrary\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "H:\\HomeSport\\Addresslibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "H:\\HomeSport\\Addresslibrary\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "H:\\HomeSport\\Addresslibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\Addresslibrary\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "G:\\HomeSport\\Addresslibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "H:\\HomeSport\\Addresslibrary\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "H:\\HomeSport\\Addresslibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\Addresslibrary\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "G:\\HomeSport\\Addresslibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\Addresslibrary\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "G:\\HomeSport\\Addresslibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\Addresslibrary\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "G:\\HomeSport\\Addresslibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\Addresslibrary\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_dialog_enter.xml",
+        "source": "G:\\HomeSport\\Addresslibrary\\src\\main\\res\\anim\\bottom_dialog_enter.xml"
+    },
+    {
+        "merged": "H:\\HomeSport\\Addresslibrary\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "H:\\HomeSport\\Addresslibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\Addresslibrary\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_dialog_exit.xml",
+        "source": "G:\\HomeSport\\Addresslibrary\\src\\main\\res\\anim\\bottom_dialog_exit.xml"
+    },
+    {
+        "merged": "H:\\HomeSport\\Addresslibrary\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "H:\\HomeSport\\Addresslibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "H:\\HomeSport\\Addresslibrary\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "H:\\HomeSport\\Addresslibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\Addresslibrary\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "G:\\HomeSport\\Addresslibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "H:\\HomeSport\\Addresslibrary\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "H:\\HomeSport\\Addresslibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\Addresslibrary\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "G:\\HomeSport\\Addresslibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "H:\\HomeSport\\Addresslibrary\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "H:\\HomeSport\\Addresslibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "G:\\HomeSport\\Addresslibrary\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "G:\\HomeSport\\Addresslibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    }
+]
